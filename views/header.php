@@ -10,9 +10,9 @@
 			</form>
 			<nav class="menu">
 				<ul>
-					<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-					<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-					<li><a href="#">Contacto<i class="icono fa fa-envelope"></i></a></li>					
+					<li><a href="#"><i class="fab fa-twitter"></i></a></li>
+					<li><a href="#"><i class="fab fa-facebook"></i></a></li>
+					<li><a href="error.php">Acerca de nosotros<i class="icono fa fa-users"></i></a></li>					
 				</ul>
 			</nav>
 		</div>
