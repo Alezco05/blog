@@ -126,7 +126,7 @@
 	}
 
 	.contenedor{
-	display: grid;
+	display: block;
 	grid-template-areas: "head menu" 
 	"main main";
 	grid-gap: 60% 40%;
@@ -291,4 +291,7 @@
 	.formulario input[type="submit"]:hover{
 		background: #BB1F35;
 	}
-	
+	.contenedor .btn-close{
+		width: 200px;
+		height: 50px;
+	}
